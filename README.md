@@ -32,6 +32,9 @@ To Run This Project Follow Below Steps:
 4. Open firefox or any other browser and run the http://localhost/king%20hoon%20mein/home.php
 
 
+![Screenshot (59)](https://user-images.githubusercontent.com/75285482/174652306-4cc6b668-3797-4e3f-848f-eda2dc6c8bfc.png)
+
+
 
 
 
