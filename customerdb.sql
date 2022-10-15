@@ -40,6 +40,7 @@ INSERT INTO `customer` (`UserID`, `Name`, `Email`, `Acc_Number`, `IFSC`, `Balanc
 CREATE TABLE `transfer` (
   `s_name` varchar(10) NOT NULL,
   `s_acc_no` int(11) NOT NULL,
+  's_rollno' int(10) NOT NULL,
   `r_name` varchar(10) NOT NULL,
   `r_acc_no` int(11) NOT NULL,
   `amount` int(11) NOT NULL,
