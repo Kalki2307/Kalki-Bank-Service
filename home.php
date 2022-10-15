@@ -9,7 +9,7 @@
             background-color: #FFFFFF;
             width: auto;
             height: auto;
-            /* background-image: url("Radha Krishna colored by flow692 on DeviantArt.jpg"); */
+            background-image: url("Radha Krishna colored by flow692 on DeviantArt.jpg"); 
             background-size: cover;
             background-repeat: no-repeat;
             margin-right: 0px;
