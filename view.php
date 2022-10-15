@@ -20,6 +20,35 @@
       cursor: pointer;
       margin: 5px;
     }
+    button {
+
+      display: inline-block;
+
+      border-radius: 70px;
+
+      background-color: #2b67f8;
+
+
+
+      
+
+      color: #FFFFFF;
+
+      text-align: center;
+
+      font-size: 20px;
+
+      padding: 15px;
+
+      width: 150px;
+
+      transition: all 0.5s;
+
+      cursor: pointer;
+
+      margin: 5px;
+
+    }
 
     button span {
       cursor: pointer;
